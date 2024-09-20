@@ -1,4 +1,4 @@
-DockerfileCopy code# Base image
+# DockerfileCopy code# Base image
 # FROM python:3.12-slim-buster
 FROM python:3.9-slim
 
